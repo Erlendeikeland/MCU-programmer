@@ -5,6 +5,10 @@
   "publisher": "Erlend",
   "description": "Program a MCU",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erlendeikeland/MCU-programmer"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
